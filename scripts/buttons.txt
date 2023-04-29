@@ -1,0 +1,7 @@
+color: 000000
+shape: rounded
+style: gel
+size 250x75
+text: size 24
+text color ffffff
+font: display 11

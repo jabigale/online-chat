@@ -1,0 +1,10 @@
+[2[13-Dec-2020 16:23:43 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/realetp3/public_html/chabate/scripts/global.php on line 8
+[13-Dec-2020 16:23:43 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/realetp3/public_html/chabate/scripts/global.php on line 10
+[26-Mar-2021 14:53:49 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/realetp3/public_html/chabate/scripts/global.php on line 8
+[26-Mar-2021 14:53:49 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/realetp3/public_html/chabate/scripts/global.php on line 10
+[23-Jun-2021 07:33:15 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/realetp3/public_html/chabate/scripts/global.php on line 8
+[23-Jun-2021 07:33:15 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/realetp3/public_html/chabate/scripts/global.php on line 10
+[24-Jun-2021 03:34:07 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/realetp3/public_html/chabate/scripts/global.php on line 8
+[24-Jun-2021 03:34:07 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/realetp3/public_html/chabate/scripts/global.php on line 10
+[15-Nov-2021 10:54:07 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/realetp3/public_html/chabate/scripts/global.php on line 8
+[15-Nov-2021 10:54:07 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/realetp3/public_html/chabate/scripts/global.php on line 10
