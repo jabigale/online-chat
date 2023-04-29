@@ -1,7 +1,7 @@
 # online-chat
 Online chat site, that uses mysql and lavarel 
 
-This chat site, is a dscussion based site, where users can post their answers to questions.
+This chat site, is discussion based on different questions, where users can post their answers to questions.
 
 Requires mysql database
 
