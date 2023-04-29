@@ -11,4 +11,4 @@ Installation instructions:
 
 Start, by creating the database at database.sql
 
-edit the mysql.php config file with your database username and password.
+edit the scripts/mysql.php file with your database info.
